@@ -52,6 +52,7 @@ This project is open-source and released under the **MIT License**.
 
 🔗 **Official Website:** [sinahub.wordpress.com](https://sinahub.wordpress.com/)  
 👤 **Author:** [Geritychina](https://github.com/Geritychina)  
+🔗**Contacts**: https://linktr.ee/geritychina/
 
 ---
 
