@@ -21,19 +21,21 @@ This project is inspired by the richness of Chinese heritage and its dynamic con
 ## 🎯 Mission & Vision  
 
 - Build a **global online hub** showcasing China’s unique identity.  
-- Share **high-quality content**: articles, portfolios, interviews, and services.  
+- Share **high-quality content**: articles, interviews, and services.  
 - Bridge **tradition and innovation**, inspiring audiences worldwide.  
-- Provide **tailored experiences** for travel, business, and cultural exchange.  
 
 ---
 
 ## 📌 Project Structure  
 
-🔹 **About** – Vision, story, and philosophy.  
-🔹 **Portfolio** – Featured works, initiatives, and highlights.  
-🔹 **Services** – Consulting, cultural projects, and collaborations.  
-🔹 **Interviews** – Conversations with experts, entrepreneurs, and creatives.  
-🔹 **Contacts** – Direct ways to connect with the team.  
+🔹 About Me – Personal background, mission, and vision.
+🔹 About the Project – Purpose, goals, and scope of SinaHub.
+🔹 Blog – Articles, insights, and updates on Chinese culture and related topics.
+🔹 Portfolio – Showcase of selected works and featured projects.
+🔹 Work With Me – Collaboration opportunities and personalized services.
+🔹 Services – Offerings, programs, and consulting options.
+🔹 Interviews – Conversations with experts and creative professionals.
+🔹 Contacts – Ways to get in touch and connect. 
 
 ---
 
