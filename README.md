@@ -28,14 +28,15 @@ This project is inspired by the richness of Chinese heritage and its dynamic con
 
 ## 📌 Project Structure  
 
-🔹 About Me – Personal background, mission, and vision.
-🔹 About the Project – Purpose, goals, and scope of SinaHub.
-🔹 Blog – Articles, insights, and updates on Chinese culture and related topics.
-🔹 Portfolio – Showcase of selected works and featured projects.
-🔹 Work With Me – Collaboration opportunities and personalized services.
-🔹 Services – Offerings, programs, and consulting options.
-🔹 Interviews – Conversations with experts and creative professionals.
-🔹 Contacts – Ways to get in touch and connect. 
+🔹 About Me – Personal background, mission, and vision.  
+🔹 About the Project – Purpose, goals, and scope of SinaHub.  
+🔹 Blog – Articles, insights, and updates on Chinese culture and related topics.  
+🔹 Portfolio – Showcase of selected works and featured projects.  
+🔹 Work With Me – Collaboration opportunities and personalized services.  
+🔹 Services – Offerings, programs, and consulting options.  
+🔹 Interviews – Conversations with experts and creative professionals.  
+🔹 Contacts – Ways to get in touch and connect.  
+
 
 ---
 
