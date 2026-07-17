@@ -10,7 +10,7 @@
 
 ## ✨ Introduction  
 
-**SinaHub** is a digital platform founded by **Gergana Varbanova (CEO)** with a clear mission:  
+**SinaHub** is a digital platform founded by **Gergana Varbanova (Founder)** with a clear mission:  
 
 > “To connect people with the authentic Chinese civilization — its timeless traditions, cutting-edge technologies, and unforgettable journeys.”  
 
@@ -30,6 +30,7 @@ This project is inspired by the richness of Chinese heritage and its dynamic con
 
 🔹 About Me – Personal background, mission, and vision.  
 🔹 About the Project – Purpose, goals, and scope of SinaHub.  
+🔹 SinaHub Lab – An innovation and experimental projects lab where traditional Chinese wisdom meets modern technology. </br>
 🔹 Blog – Articles, insights, and updates on Chinese culture and related topics.  
 🔹 Portfolio – Showcase of selected works and featured projects.  
 🔹 Work With Me – Collaboration opportunities and personalized services.  
